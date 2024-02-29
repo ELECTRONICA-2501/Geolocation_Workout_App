@@ -1,5 +1,7 @@
 # Geolocation_Workout_App
 
+NOTE: To see code, please go to `master` branch, you are currently in `main`
+
 In order to run this app succesfully and fast, your gonna need some prerequites software. Specifically Node.js, npm (node package manager) and to make things really really really easy - live-server extension on VSCode.
 
 Once you have all thess installed, clone this repository to your local computer, open up the startHere file, open up a terminal and run the following command
