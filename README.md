@@ -14,4 +14,4 @@ Rememeber to allow your browser to access your location. Afterwords if should di
 
 Since I'm based in Chicago, you should see something like this in your browser.
 
-![geo]()
+![geo](GeoLocApp.png)
